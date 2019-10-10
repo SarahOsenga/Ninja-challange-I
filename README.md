@@ -1,1 +1,1 @@
-# Ninja-challange-I
+# Ninja-challenge-I
